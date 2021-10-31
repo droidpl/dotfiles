@@ -42,7 +42,7 @@ alias npmll="npm ll --depth=0"
 alias npmls="npm ls --depth=0"
 
 # kubectl
-alias kubectl=ktl
+alias ktl=kubectl
 
 # terraform
 alias tf=terraform
