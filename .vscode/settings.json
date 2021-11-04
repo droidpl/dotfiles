@@ -15,7 +15,7 @@
   "editor.wordWrap": "on",
   "editor.wordWrapColumn": 120,
   "editor.wrappingIndent": "deepIndent",
-  "files.autoSave": "afterDelay",
+  "files.autoSave": "onFocusChange",
   "files.defaultLanguage": "markdown",
   "files.eol": "\n",
   "files.exclude": {
@@ -49,7 +49,7 @@
   "terminal.integrated.defaultProfile.osx": "zsh",
   "terminal.integrated.defaultProfile.linux": "zsh",
   "window.newWindowDimensions": "inherit",
-  "window.zoomLevel": -2,
+  "window.zoomLevel": 0,
   "workbench.activityBar.visible": true,
   "workbench.colorTheme": "GitHub Dark Dimmed",
   "workbench.editor.labelFormat": "short",
