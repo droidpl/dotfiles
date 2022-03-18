@@ -46,3 +46,6 @@ alias ktl=kubectl
 
 # terraform
 alias tf=terraform
+
+# Ip of the user
+alias myIp=ifconfig en0 | grep inet | grep -v "inet6" | awk {'print $2'}
